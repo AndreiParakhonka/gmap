@@ -7,9 +7,9 @@
 Версия Android: 4.2
 
 Программа использует:
-для отображения карты - api google maps 
-получение погоды - api  http://openweathermap.org/ 
-авторизация ВКонтакте - apivk с помощью OAuth 2.0
+* для отображения карты - api google maps 
+* получение погоды - api  http://openweathermap.org/ 
+* авторизация ВКонтакте - apivk с помощью OAuth 2.0
 
 Разработчики:
 Сорокина Н.В.
